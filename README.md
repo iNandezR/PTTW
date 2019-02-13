@@ -4,6 +4,11 @@ Wiki encompassing Penetration Testing tools.
 ## Windows Tools
 Section for listing and explaining tools that work with Windows
 
+### Usefule Windows commands (CMD)
+
+#### CMDKEY
+This command can list credentials that are saved on the system. This makes it very easy to escelate privileges on a compromised system.
+
 ## Kali Tools
 Section for listing and explaining tools that work with Kali
 
